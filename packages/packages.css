@@ -1,0 +1,89 @@
+main a {
+    text-decoration: none;
+}
+
+#plus {
+  background: #aef0b9;
+  padding: 16px;
+  margin: 16px;
+  display: column;
+  width: 80%;
+  vertical-align: middle;
+  border: 2px solid rgb(6, 66, 6);
+}
+
+.plus-title {
+  color: black;
+  text-decoration-style: none;
+}
+
+.plus-description {
+  color: gray;
+  text-decoration: none;
+}
+
+.plus-content__card {
+  background: white;
+  border: 2px solid rgb(6, 66, 6);
+}
+
+.plus-content {
+  color: rgb(6, 66, 6);
+  text-decoration: none;
+  padding: 3px 10px;
+}
+
+#free {
+  background: #d2fad8;
+  padding: 16px;
+  margin: 16px;
+  display: column;
+  width: 80%;
+  border: 2px solid rgb(6, 66, 6);
+}
+
+.free-title {
+  color: black;
+}
+
+.free-description {
+  color: rgb(168, 167, 167);
+}
+
+.free-content__card {
+  background: white;
+  border: 2px solid rgb(6, 66, 6);
+}
+
+.free-content {
+  color: rgb(6, 66, 6);
+  padding: 3px 10px;
+}
+
+#premium {
+  background: rgb(9, 100, 9);
+  padding: 16px;
+  margin: 16px;
+  display: column;
+  width: 80%;
+  vertical-align: middle;
+  border: 2px solid rgb(6, 66, 6);
+}
+
+.premium-title {
+  color: #f7f7f7;
+}
+
+.premium-description {
+  color: #f7f7f7;
+}
+
+.premium-content__card {
+  background: white;
+  border: 2px solid rgb(6, 66, 6);
+}
+
+.premium-content {
+  color: rgb(6, 66, 6);
+  padding: 3px 10px;
+}
