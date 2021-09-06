@@ -49,19 +49,19 @@ body {
 }
 
 .plan__title {
-    color: darkgreen;
+  color: darkgreen;
 }
 
 .plan__price {
-    color: darkgrey;
+  color: darkgrey;
 }
 
 .plan--highlighted .plan__title {
-    color: white;
+  color: white;
 }
 
 .plan--highlighted .plan__price {
-    color: darkgreen;
+  color: darkgreen;
 }
 
 .plan__features {
@@ -72,6 +72,23 @@ body {
 
 .plan__feature {
   margin: 8px 0;
+}
+
+.button {
+  background: darkgreen;
+  color: white;
+  font: inherit;
+  border: 1.5px solid darkgreen;
+  padding: 8px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.button:hover, 
+.button:active {
+  background: white;
+  color: darkgreen;
 }
 
 /* h1 {
